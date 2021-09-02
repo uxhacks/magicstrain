@@ -1,8 +1,9 @@
 img {
 -webkit-animation: rainbow 15s steps(60) infinite;
-display: block;
-margin: 0 auto;
-margin-top: 10rem;
+max-width: 300px;
+position: absolute;
+top: calc(50% - 94px);
+left: calc(50% - 150px);
 }
 
 @-webkit-keyframes rainbow {
