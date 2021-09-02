@@ -1,5 +1,8 @@
 img {
 -webkit-animation: rainbow 15s steps(60) infinite;
+display: block;
+margin: 0 auto;
+margin-top: 10rem;
 }
 
 @-webkit-keyframes rainbow {
